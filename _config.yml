@@ -14,9 +14,9 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: HNGHTNLP
+name: HNGHTNLP
+description: 
 
 github: https://github.com/showzeng/Minimalism
 rss: true
