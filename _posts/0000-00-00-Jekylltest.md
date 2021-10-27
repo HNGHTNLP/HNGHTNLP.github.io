@@ -1,7 +1,7 @@
 ---
 layout : post
 title: "Jekylltest"
-date: 0000-00-00
+date: 1900-01-01
 tag: 博客
 ---
 
